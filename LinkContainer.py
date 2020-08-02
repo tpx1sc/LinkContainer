@@ -5,7 +5,7 @@
 
 import os # Modulo os per eseguire comandi da console (cmd)
 import codecs # Modulo che serve ad encriptare i link
-import pyperclip
+import pyperclip # Modulo che serve a salvare le variabili nella clipboard
 
 enc_link = 0
 
